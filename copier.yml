@@ -1,0 +1,8 @@
+project_name:
+  type: str
+  prompt: "What is the name of the project?"
+
+project_description:
+  type: str
+  prompt: "What is the description of the project?"
+  default: "A new project."
